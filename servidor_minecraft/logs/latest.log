@@ -1,0 +1,256 @@
+[25Sep2026 11:21:41.865] [main/INFO] [net.neoforged.fml.startup.Entrypoint/]: JVM Uptime at startup: 215ms
+[25Sep2026 11:21:41.886] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]: Starting FancyModLoader version 11.0.16 (DEDICATED_SERVER in PROD)
+[25Sep2026 11:21:41.887] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]: Game directory: /workspaces/SERVER-DISLEXICO-05/servidor_minecraft
+[25Sep2026 11:21:42.031] [main/INFO] [net.neoforged.fml.loading.EarlyServiceDiscovery/]: Found 2 early service jars (out of 87) in 80ms
+[25Sep2026 11:21:42.032] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]: Loading FML Early Services:
+[25Sep2026 11:21:42.033] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]:  - libraries/net/neoforged/fancymodloader/earlydisplay/11.0.16/earlydisplay-11.0.16.jar
+[25Sep2026 11:21:42.033] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]:  - libraries/net/neoforged/fancymodloader/loader/11.0.16/loader-11.0.16.jar
+[25Sep2026 11:21:42.041] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: Not loading early display in headless mode.
+[25Sep2026 11:21:42.063] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.GameLocator/]: Failed to find common Minecraft classes and resources on the classpath. Assuming we're launching production.
+[25Sep2026 11:21:42.332] [main/ERROR] [net.neoforged.fml.loading.moddiscovery.ModFile/LOADING]: Access transformer file META-INF/neoforge.accesstransformer.cfg provided by mod fallingtree does not exist!
+[25Sep2026 11:21:42.862] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
+[25Sep2026 11:21:42.868] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Balm 26.2.0.8 (balm)
+		Biomes O' Plenty 26.2.0.0.24 (biomesoplenty)
+		Collective 8.39 (collective)
+		Common Networking 26.2-1.1.0 (commonnetworking)
+		Corail Tombstone 9.9.3 (tombstone)
+		CreativeCore 2.14.16 (creativecore)
+		Dungeon Crawl 2.3.17 (dungeoncrawl)
+		Explorify 1.6.5 (explorify)
+		FallingTree 25 (fallingtree)
+		GlitchCore 26.2.0.0.0 (glitchcore)
+		Inventory Profiles Next 2.3.7 (inventoryprofilesnext)
+		Journeymap 26.2-6.0.8 (journeymap)
+		JourneyMap API 26.2-2.0.0 (journeymap_api)
+		Just Enough Items 30.32.0.221 (jei)
+		Just Hammers 26.2.0.1 (justhammers)
+		KumaAPI 26.2.0.1 (kuma_api)
+		libIPN 6.8.3 (libipn)
+		Minecraft 26.2 (minecraft)
+		NeoForge 26.2.0.75 (neoforge)
+		PlayerRevive 2.1.2 (playerrevive)
+		Replanting Crops 5.6 (replantingcrops)
+		Repurposed Structures 7.7.6+26.2-neoforge (repurposed_structures)
+		Rotten Flesh Smelt To Leather 1.7.8 (rottenfleshtoleather)
+		TerraBlender 26.2.0.0.2 (terrablender)
+		TrashSlot 26.2.0.2 (trashslot)
+		Traveler's Backpack 11.3.3 (travelersbackpack)
+[25Sep2026 11:21:43.276] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SERVER-DISLEXICO-05/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=FML Env=SERVER
+[25Sep2026 11:21:43.326] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]: Loading FML Plugins:
+[25Sep2026 11:21:43.326] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]:  - mods/libIPN-neoforge-26.2-6.8.3.jar > kotlinx-serialization-core-jvm-1.11.0.jar
+[25Sep2026 11:21:43.326] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]:  - mods/libIPN-neoforge-26.2-6.8.3.jar > kotlinx-coroutines-jdk8-1.11.0.jar
+[25Sep2026 11:21:43.327] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]:  - mods/libIPN-neoforge-26.2-6.8.3.jar > kotlinx-serialization-json-jvm-1.11.0.jar
+[25Sep2026 11:21:43.327] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]:  - mods/journeymap-neoforge-26.2-6.0.8.jar > pngj-2.1.0.jar
+[25Sep2026 11:21:43.329] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]:  - mods/libIPN-neoforge-26.2-6.8.3.jar > kotlin-stdlib-2.4.0.jar
+[25Sep2026 11:21:43.329] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]:  - mods/libIPN-neoforge-26.2-6.8.3.jar > kotlinx-coroutines-core-jvm-1.11.0.jar
+[25Sep2026 11:21:43.334] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]:  - mods/libIPN-neoforge-26.2-6.8.3.jar > kotlin-reflect-2.4.0.jar
+[25Sep2026 11:21:43.334] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]:  - ~libraries/net/neoforged/neoforge/26.2.0.75/neoforge-26.2.0.75-universal.jar > net.neoforged.neoforge-coremods-26.2.0.75.jar
+[25Sep2026 11:21:43.334] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]:  - mods/libIPN-neoforge-26.2-6.8.3.jar > kotlin-stdlib-jdk8-2.4.0.jar
+[25Sep2026 11:21:43.334] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]:  - mods/libIPN-neoforge-26.2-6.8.3.jar > kotlin-stdlib-jdk7-2.4.0.jar
+[25Sep2026 11:21:43.357] [main/WARN] [net.neoforged.fml.loading.LanguageProviderLoader/]: Mod jar(mods/Explorify v1.6.5.mod.jar) is using the deprecated 'lowcodefml' language loader. This warning can be fixed by simply removing the modLoader and loaderVersion settings from neoforge.mods.toml.
+[25Sep2026 11:21:43.795] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]: Building game content classloader:
+ - balm (jar(mods/balm-neoforge-26.2-26.2.0.8.jar))
+ - biomesoplenty (jar(mods/BiomesOPlenty-neoforge-26.2-26.2.0.0.24.jar))
+ - collective (jar(mods/collective-26.2.0-8.39.jar))
+ - commonnetworking (jar(mods/journeymap-neoforge-26.2-6.0.8.jar > common-networking-neoforge-26.2-1.1.0.jar))
+ - creativecore (jar(mods/CreativeCore_NEOFORGE_v2.14.16_mc26.2.jar))
+ - dungeoncrawl (jar(mods/DungeonCrawl-NeoForge-26.2-2.3.17.jar))
+ - explorify (jar(mods/Explorify v1.6.5.mod.jar))
+ - fallingtree (jar(mods/FallingTree-26.2-25.jar))
+ - glitchcore (jar(mods/GlitchCore-neoforge-26.2-26.2.0.0.0.jar))
+ - inventoryprofilesnext (jar(mods/InventoryProfilesNext-neoforge-26.2-2.3.7.jar))
+ - jei (jar(mods/jei-26.2-neoforge-30.32.0.221.jar))
+ - journeymap (jar(mods/journeymap-neoforge-26.2-6.0.8.jar))
+ - journeymap_api (jar(mods/journeymap-neoforge-26.2-6.0.8.jar > journeymap-api-neoforge-26.2-2.0.0.jar))
+ - justhammers (jar(mods/just-hammers-neoforge-26.2.0.1.jar))
+ - kuma_api (jar(mods/balm-neoforge-26.2-26.2.0.8.jar > kuma-api-neoforge-26.2.0.1.jar))
+ - libipn (jar(mods/libIPN-neoforge-26.2-6.8.3.jar))
+ - minecraft (jar(~libraries/net/neoforged/minecraft-server-patched/26.2.0.75/minecraft-server-patched-26.2.0.75.jar))
+ - mixinextras.neoforge (jar(~libraries/net/neoforged/neoforge/26.2.0.75/neoforge-26.2.0.75-universal.jar > mixinextras-neoforge-0.5.4.jar))
+ - neoforge (jar(~libraries/net/neoforged/neoforge/26.2.0.75/neoforge-26.2.0.75-universal.jar))
+ - net.neoforged.fml.generated (empty(VirtualJar/net.neoforged.fml.generated))
+ - playerrevive (jar(mods/PlayerRevive_NEOFORGE_v2.1.2_mc26.2.jar))
+ - replantingcrops (jar(mods/replantingcrops-26.2.0-5.6.jar))
+ - repurposed_structures (jar(mods/repurposed_structures-7.7.6+26.2-neoforge.jar))
+ - rottenfleshtoleather (jar(mods/rottenfleshtoleather NeoForge 26.2-1.7.8.jar))
+ - terrablender (jar(mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar))
+ - tombstone (jar(mods/tombstone-neoforge-26.2-9.9.3.jar))
+ - trashslot (jar(mods/trashslot-neoforge-26.2-26.2.0.2.jar))
+ - travelersbackpack (jar(mods/travelersbackpack-neoforge-26.2-11.3.3.jar))
+[25Sep2026 11:21:43.920] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]: Built game content classloader in 163ms
+[25Sep2026 11:21:44.010] [main/INFO] [mixin/]: Compatibility level set to JAVA_25
+[25Sep2026 11:21:44.164] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Sep2026 11:21:44.167] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Sep2026 11:21:44.170] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Sep2026 11:21:44.172] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Sep2026 11:21:44.177] [main/WARN] [mixin/]: Reference map 'mixins.tombstone.refmap.json' for tombstone.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Sep2026 11:21:44.184] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Sep2026 11:21:44.184] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Sep2026 11:21:44.184] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Sep2026 11:21:44.185] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Sep2026 11:21:44.202] [main/WARN] [mixin/]: Reference map 'ipnext.refmap.json' for mixins.ipnext.json could not be read. If this is a development environment you can ignore this message
+[25Sep2026 11:21:44.213] [main/WARN] [mixin/]: Reference map 'playerrevive.mixin.refmap.json' for playerrevive.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Sep2026 11:21:45.155] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/SalmonRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.SalmonRenderer)
+[25Sep2026 11:21:45.156] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.SalmonRenderer was not found journeymap.mixins.json:client.SalmonRendererAccessor from mod journeymap
+[25Sep2026 11:21:45.777] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[25Sep2026 11:21:53.435] [modloading-worker-0/INFO] [rottenfleshtoleather/]: Loaded rottenfleshtoleather
+[25Sep2026 11:21:53.439] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.39.
+[25Sep2026 11:21:53.509] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 26.2.0.75, for MC 26.2
+[25Sep2026 11:21:53.525] [modloading-worker-0/INFO] [net.blay09.mods.balm.neoforge.platform.config.internal.NeoForgeBalmConfig/]: Registering config for trashslot:common (COMMON) with 5 properties.
+[25Sep2026 11:21:53.676] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.17...
+[25Sep2026 11:21:53.851] [modloading-worker-0/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[25Sep2026 11:21:54.526] [Collective Update Checker/WARN] [Collective/]: [Update] Collective has an update available: 8.39 -> 8.40
+[25Sep2026 11:21:55.210] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Starting version check at https://neoforge.curseupdate.com/32274/journeymap
+[25Sep2026 11:21:55.261] [modloading-sync-worker/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Reference{ResourceKey[minecraft:fluid / minecraft:water]=minecraft:water} (Fluid Amount Required: 1000) with the ID 0
+[25Sep2026 11:21:55.261] [modloading-sync-worker/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Reference{ResourceKey[minecraft:fluid / minecraft:lava]=minecraft:lava} (Fluid Amount Required: 1000) with the ID 1
+[25Sep2026 11:21:55.262] [modloading-sync-worker/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Reference{ResourceKey[minecraft:fluid / travelersbackpack:potion_fluid]=travelersbackpack:potion_fluid} (Fluid Amount Required: 250) with the ID 2
+[25Sep2026 11:21:55.262] [modloading-sync-worker/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Reference{ResourceKey[minecraft:fluid / minecraft:milk]=minecraft:milk} (Fluid Amount Required: 1000) with the ID 3
+[25Sep2026 11:21:55.266] [modloading-sync-worker/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[25Sep2026 11:21:55.266] [modloading-sync-worker/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[25Sep2026 11:21:55.266] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[25Sep2026 11:21:55.266] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[25Sep2026 11:21:55.266] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[25Sep2026 11:21:55.266] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[25Sep2026 11:21:55.267] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[25Sep2026 11:21:55.302] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 26.2-6.0.8 Target: null
+[25Sep2026 11:21:55.302] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/neoforge-update.json
+[25Sep2026 11:21:55.348] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.9.3 Target: null
+[25Sep2026 11:21:55.430] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[25Sep2026 11:21:58.705] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file 'travelersbackpack:hay' from 'travelersbackpack:loot_modifiers/hay.json': DataResult.Error['Item minecraft:beetroot does not have components yet; Item minecraft:potato does not have components yet; Item minecraft:carrot does not have components yet': Optional[com.tiviacz.travelersbackpack.loot.HayBackpackLootModifier@302222df]]
+[25Sep2026 11:22:00.825] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 2284 recipes
+[25Sep2026 11:22:00.851] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2583 advancements
+[25Sep2026 11:22:00.865] [main/INFO] [net.neoforged.neoforge.common.crafting.RecipePriorityManager/]: Loaded 0 recipe priority overrides
+[25Sep2026 11:22:00.871] [main/INFO] [ovh.corail.tombstone.entity.trade.TradeManager/]: Loaded 63 trades for Grave Guardian
+[25Sep2026 11:22:00.871] [ForkJoinPool.commonPool-worker-3/INFO] [Dungeon Crawl/]: Loading data...
+[25Sep2026 11:22:01.191] [ForkJoinPool.commonPool-worker-3/INFO] [Dungeon Crawl/]: Done.
+[25Sep2026 11:22:01.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 26.2
+[25Sep2026 11:22:01.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[25Sep2026 11:22:01.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[25Sep2026 11:22:01.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[25Sep2026 11:22:01.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[25Sep2026 11:22:01.649] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[25Sep2026 11:22:01.715] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for biomesoplenty:rainforest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[25Sep2026 11:22:01.717] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for biomesoplenty:rocky_rainforest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[25Sep2026 11:22:02.251] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[25Sep2026 11:22:02.251] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[25Sep2026 11:22:02.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[25Sep2026 11:22:03.024] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Loading 0 persistent chunks...
+[25Sep2026 11:22:03.027] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Preparing spawn area: 100%
+[25Sep2026 11:22:03.040] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Time elapsed: 18 ms
+[25Sep2026 11:22:03.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.395s)! For help, type "help"
+[25Sep2026 11:22:03.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[MUNDO DISLEXICO]'/minecraft:overworld
+[25Sep2026 11:22:03.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[MUNDO DISLEXICO]'/minecraft:the_end
+[25Sep2026 11:22:03.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[MUNDO DISLEXICO]'/minecraft:the_nether
+[25Sep2026 11:22:03.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Sep2026 11:22:03.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Sep2026 11:22:03.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Sep2026 11:22:03.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Sep2026 11:22:03.264] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[25Sep2026 11:22:03.277] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
+[25Sep2026 11:22:03.278] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeClientHooks@60256ff3 for service interface journeymap.api.services.ClientPlatformService
+[25Sep2026 11:22:03.281] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeHooks@6e45eaf5 for service interface journeymap.api.services.CommonPlatformService
+[25Sep2026 11:22:03.297] [Server thread/INFO] [journeymap/]: Found @JourneyMapPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
+[25Sep2026 11:22:03.303] [Server thread/INFO] [journeymap/]: Initialized IJourneyMapPlugin as:journeymap.api.plugins.LoadedChunkOverlayPlugin: for:journeymap_chunk_overlay
+[25Sep2026 11:22:25.988] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player MirsWATF is b5193e04-289f-4676-8ef7-f3111c8cc1e6
+[25Sep2026 11:22:27.044] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Miikari_UwU is 291c1a0c-bd77-44e1-a786-e724ee0a4b4a
+[25Sep2026 11:22:28.676] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player teemoelsamu is d1418274-fbb6-4a7d-be69-45904935106e
+[25Sep2026 11:22:29.319] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MirsWATF[/127.119.112.13:34545] logged in with entity id 283 at (-1831.91494304106, -11.0, -1920.6459210338717)
+[25Sep2026 11:22:29.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF joined the game
+[25Sep2026 11:22:29.803] [Server thread/INFO] [journeymap/]: JourneyMap client version for MirsWATF: 6.0.8 (server version: 6.0.8)
+[25Sep2026 11:22:30.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Miikari_UwU[/127.119.128.7:41433] logged in with entity id 329 at (-1808.699999988079, -22.1875, -1888.9563577200588)
+[25Sep2026 11:22:30.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miikari_UwU joined the game
+[25Sep2026 11:22:30.786] [Server thread/INFO] [journeymap/]: JourneyMap client version for Miikari_UwU: 6.0.8 (server version: 6.0.8)
+[25Sep2026 11:22:30.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: teemoelsamu[/127.153.184.86:46323] logged in with entity id 370 at (-1816.3787677853852, -14.613078773813369, -1886.300000011921)
+[25Sep2026 11:22:30.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: teemoelsamu joined the game
+[25Sep2026 11:22:31.504] [Server thread/INFO] [journeymap/]: JourneyMap client version for teemoelsamu: 6.0.8 (server version: 6.0.8)
+[25Sep2026 11:22:52.480] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[25Sep2026 11:22:52.484] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[25Sep2026 11:22:55.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF tried to swim in lava
+[25Sep2026 11:22:55.711] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.standard_25.09.2026-11.22.55.dat
+[25Sep2026 11:22:55.716] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1824 Y: -23 Z: -1927
+[25Sep2026 11:22:55.739] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[25Sep2026 11:23:53.695] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[25Sep2026 11:23:53.698] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[25Sep2026 11:23:56.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF has reached the goal [Chain Death]
+[25Sep2026 11:23:56.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF tried to swim in lava
+[25Sep2026 11:23:56.254] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[25Sep2026 11:24:58.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MirsWATF: Set own game mode to Spectator Mode]
+[25Sep2026 11:25:27.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MirsWATF: Set own game mode to Survival Mode]
+[25Sep2026 11:25:37.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MirsWATF: Set own game mode to Spectator Mode]
+[25Sep2026 11:27:10.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MirsWATF: Set own game mode to Survival Mode]
+[25Sep2026 11:28:41.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MirsWATF: Set own game mode to Spectator Mode]
+[25Sep2026 11:29:04.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MirsWATF: Set own game mode to Survival Mode]
+[25Sep2026 11:33:23.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miikari_UwU has made the advancement [Getting Started]
+[25Sep2026 11:38:37.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[25Sep2026 12:10:24.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MirsWATF: Set the weather to clear]
+[25Sep2026 12:14:09.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Miikari_UwU> ZZZZZZZZZZZZZZZZ
+[25Sep2026 12:19:43.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Miikari_UwU lost connection: Disconnected
+[25Sep2026 12:19:43.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miikari_UwU left the game
+[25Sep2026 12:30:57.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-45, y=94, z=62} BlockPos{x=-45, y=92, z=61}
+[25Sep2026 12:33:50.005] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[25Sep2026 12:33:50.010] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[25Sep2026 12:33:57.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF was slain by Zombified Piglin
+[25Sep2026 12:33:57.294] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.standard_25.09.2026-12.33.57.dat
+[25Sep2026 12:33:57.295] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -59 Y: 100 Z: 45
+[25Sep2026 12:34:10.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-56, y=101, z=42}
+[25Sep2026 12:35:44.104] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[25Sep2026 12:35:44.107] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[25Sep2026 12:35:51.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF was speared by Zombified Piglin
+[25Sep2026 12:35:51.243] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.standard_25.09.2026-12.35.51.dat
+[25Sep2026 12:35:51.253] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -77 Y: 102 Z: 67
+[25Sep2026 12:37:14.301] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[25Sep2026 12:37:14.308] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[25Sep2026 12:37:20.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF was slain by Zombified Piglin
+[25Sep2026 12:37:20.092] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.standard_25.09.2026-12.37.20.dat
+[25Sep2026 12:37:20.094] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -70 Y: 101 Z: 55
+[25Sep2026 12:38:10.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: teemoelsamu lost connection: Disconnected
+[25Sep2026 12:38:10.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: teemoelsamu left the game
+[25Sep2026 12:40:23.998] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[25Sep2026 12:40:24.004] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[25Sep2026 12:40:30.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF was slain by Zombified Piglin
+[25Sep2026 12:40:30.342] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.standard_25.09.2026-12.40.30.dat
+[25Sep2026 12:40:30.343] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 19 Y: 96 Z: 42
+[25Sep2026 12:43:06.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MirsWATF lost connection: Disconnected
+[25Sep2026 12:43:06.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF left the game
+[25Sep2026 12:43:09.860] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player MirsWATF is b5193e04-289f-4676-8ef7-f3111c8cc1e6
+[25Sep2026 12:43:11.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MirsWATF[/127.119.112.13:43303] logged in with entity id 27146 at (19.427593164910814, 98.1212968405392, 28.2993001280706)
+[25Sep2026 12:43:11.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF joined the game
+[25Sep2026 12:43:11.937] [Server thread/INFO] [journeymap/]: JourneyMap client version for MirsWATF: 6.0.8 (server version: 6.0.8)
+[25Sep2026 12:44:01.092] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[25Sep2026 12:44:01.102] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[25Sep2026 12:44:07.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF was slain by Zombified Piglin
+[25Sep2026 12:44:07.345] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.standard_25.09.2026-12.44.07.dat
+[25Sep2026 12:44:07.355] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 20 Y: 99 Z: 48
+[25Sep2026 12:45:27.095] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[25Sep2026 12:45:27.100] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[25Sep2026 12:45:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF was slain by Zombified Piglin
+[25Sep2026 12:45:33.944] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.standard_25.09.2026-12.45.33.dat
+[25Sep2026 12:45:33.945] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 6 Y: 101 Z: 7
+[25Sep2026 12:49:18.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7, y=97, z=7} BlockPos{x=8, y=99, z=7}
+[25Sep2026 12:49:38.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7, y=97, z=7} BlockPos{x=8, y=98, z=6}
+[25Sep2026 12:55:08.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=99, z=7} BlockPos{x=7, y=101, z=6}
+[25Sep2026 12:58:50.941] [Server thread/WARN] [tombstone/]: The death event of the player MirsWATF was canceled by another mod
+[25Sep2026 12:58:50.952] [Server thread/INFO] [tombstone/]: The player MirsWATF has successfully been saved
+[25Sep2026 12:58:56.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF was slain by Zombified Piglin
+[25Sep2026 12:58:56.841] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MirsWATF with unique ID travelersbackpack.standard_25.09.2026-12.58.56.dat
+[25Sep2026 12:58:56.841] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 162 Y: 63 Z: 233
+[25Sep2026 12:59:29.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF has made the advancement [Ol' Betsy]
+[25Sep2026 13:12:55.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MirsWATF lost connection: Disconnected
+[25Sep2026 13:12:55.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MirsWATF left the game
+[25Sep2026 13:13:04.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Sep2026 13:13:04.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Sep2026 13:13:04.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Sep2026 13:13:04.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Sep2026 13:13:04.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[MUNDO DISLEXICO]'/minecraft:overworld
+[25Sep2026 13:13:04.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[MUNDO DISLEXICO]'/minecraft:the_end
+[25Sep2026 13:13:04.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[MUNDO DISLEXICO]'/minecraft:the_nether
+[25Sep2026 13:13:04.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Sep2026 13:13:04.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Sep2026 13:13:04.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Sep2026 13:13:04.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Sep2026 13:13:04.934] [main/INFO] [net.neoforged.fml.loading.FMLLoader/]: Closing FML Loader 24e7472b
+[25Sep2026 13:13:04.935] [main/INFO] [net.neoforged.fml.ModLoader/]: Clearing ModLoader

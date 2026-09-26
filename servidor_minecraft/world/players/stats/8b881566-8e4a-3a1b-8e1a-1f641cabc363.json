@@ -1,0 +1,38 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 25248,
+      "minecraft:walk_one_cm": 29385,
+      "minecraft:leave_game": 4,
+      "minecraft:damage_taken": 92,
+      "minecraft:damage_dealt": 52,
+      "minecraft:play_time": 17129,
+      "minecraft:jump": 571,
+      "minecraft:time_since_death": 17129,
+      "minecraft:open_barrel": 2,
+      "minecraft:sprint_one_cm": 98347,
+      "minecraft:open_chest": 9,
+      "minecraft:fall_one_cm": 13201,
+      "minecraft:total_world_time": 17129,
+      "minecraft:fly_one_cm": 159603,
+      "minecraft:crouch_one_cm": 189,
+      "minecraft:sneak_time": 54
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 11,
+      "minecraft:tall_grass": 7,
+      "minecraft:cobblestone": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:cobblestone": 1,
+      "minecraft:wheat_seeds": 7
+    },
+    "minecraft:used": {
+      "minecraft:baked_potato": 7,
+      "minecraft:iron_pickaxe": 1,
+      "minecraft:dirt": 1
+    }
+  },
+  "DataVersion": 4903
+}
